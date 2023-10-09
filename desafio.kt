@@ -1,4 +1,3 @@
-
 enum class Nivel { INICIANTE, INTERMEDIARIO, DIFICIL }
 
 data class Usuario(val nome: String, val id: Long)
